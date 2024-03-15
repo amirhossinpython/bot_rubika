@@ -2,4 +2,5 @@ deep_translator
 pyrubi==3.3.1
 requests
 khayyam
+rubpy
 
